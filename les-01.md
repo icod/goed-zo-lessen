@@ -58,9 +58,21 @@ Of:
 * Zo heet ik niet.
 * Daar kom ik niet vandaan.
 
-### Uitspraak 
+## Uitspraak 
 
 * G / H
   * На юге Нидерландов и во Фландрии g/ch происносится значительно менее «рычаще» чем на севере Нидерландов. 
 * Lange / korte klinkers
-* Diftongen: oe, au, ou, ui, eu, ij, ei. 
+* Diftongen: oe, au, ou, ui, eu, ij, ei.
+
+## Huiswerk
+
+* Koop _Goed zo!_
+* Les 1
+
+## Evaluatie
+
+* Hoe is de eerste les bevallen?
+* Tops en tips
+
+

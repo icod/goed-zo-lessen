@@ -12,10 +12,16 @@
 
 ### De docent stelt zich voor
 
+Eerst in het Russisch
+
 * Wie ben ik?
 * Wat doe ik?
 * Waar woon ik?
 * Waar kom ik vandaan?
+* Welke verwachtingen heeft men bij de cursus.
+* Ожидания, обязательства...
+
+Dan stelt de docent zich voor in het Nederlands.
 
 ### Spel: Studenten stellen zich voor
 
@@ -51,4 +57,10 @@ Of:
 * Dat is niet zo.
 * Zo heet ik niet.
 * Daar kom ik niet vandaan.
-  
+
+### Uitspraak 
+
+* G / H
+  * На юге Нидерландов и во Фландрии g/ch происносится значительно менее «рычаще» чем на севере Нидерландов. 
+* Lange / korte klinkers
+* Diftongen: oe, au, ou, ui, eu, ij, ei. 
